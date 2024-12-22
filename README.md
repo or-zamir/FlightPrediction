@@ -15,6 +15,8 @@ This project implements advanced data analysis techniques on flight data using P
 
 ## Methodology: CRISP-DM
 
+
+
 ### 1. Business Understanding
 - Defined goals using the SMART framework for clarity and realism.
 - Questions focus on price prediction and clustering flights.
