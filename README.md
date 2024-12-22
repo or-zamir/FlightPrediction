@@ -5,13 +5,13 @@ Data-Driven Final Project: Advanced Python Programming
 ## Overview
 This project implements advanced data analysis techniques on flight data using Python, following the CRISP-DM methodology. The project answers two main business questions through data preprocessing, classification, and clustering.
 
----
+
 
 ## Goals
 1. **Predict Flight Prices:** Estimate the price of domestic flights in India using features like airline, route, and date.
 2. **Cluster Flights:** Group flights into clusters based on similarities (e.g., airline, route).
 
----
+
 
 ## Methodology: CRISP-DM
 
@@ -61,13 +61,13 @@ This project implements advanced data analysis techniques on flight data using P
 - **Classification:** Requires balanced data for improved results.
 - **Clustering:** Successfully groups flights by route, origin, and destination.
 
----
+
 
 ## Visualizations
 - **EDA plots:** Price distribution, flight frequencies by airline.
 - **Clustering results:** KMeans with optimal clusters.
 
----
+
 
 ## Repository Contents
 - **`scripts/`**: Python scripts for data cleaning, EDA, and modeling.
