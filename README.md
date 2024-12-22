@@ -61,13 +61,13 @@ This project implements advanced data analysis techniques on flight data using P
 - **Classification:** Requires balanced data for improved results.
 - **Clustering:** Successfully groups flights by route, origin, and destination.
 
-
+---
 
 ## Visualizations
 - **EDA plots:** Price distribution, flight frequencies by airline.
 - **Clustering results:** KMeans with optimal clusters.
 
-
+---
 
 ## Repository Contents
 - **`scripts/`**: Python scripts for data cleaning, EDA, and modeling.
