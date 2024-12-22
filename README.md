@@ -1,10 +1,8 @@
 # FlightPrediction
-
 Data-Driven Final Project: Advanced Python Programming
 
 ## Overview
 This project implements advanced data analysis techniques on flight data using Python, following the CRISP-DM methodology. The project answers two main business questions through data preprocessing, classification, and clustering.
-
 
 
 ## Goals
